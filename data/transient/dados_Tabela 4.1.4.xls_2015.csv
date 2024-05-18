@@ -1,0 +1,325 @@
+"ano","uf","genero","mes","numero"
+2015,"Rondônia","Feminino","Janeiro",2
+2015,"Rondônia","Feminino","Fevereiro",1
+2015,"Rondônia","Feminino","Março",0
+2015,"Rondônia","Feminino","Abril",1
+2015,"Rondônia","Feminino","Maio",0
+2015,"Rondônia","Feminino","Junho",3
+2015,"Rondônia","Feminino","Julho",0
+2015,"Rondônia","Feminino","Agosto",1
+2015,"Rondônia","Feminino","Setembro",1
+2015,"Rondônia","Feminino","Outubro",0
+2015,"Rondônia","Feminino","Novembro",1
+2015,"Rondônia","Feminino","Dezembro",1
+2015,"Acre","Feminino","Janeiro",0
+2015,"Acre","Feminino","Fevereiro",0
+2015,"Acre","Feminino","Março",0
+2015,"Acre","Feminino","Abril",0
+2015,"Acre","Feminino","Maio",0
+2015,"Acre","Feminino","Junho",0
+2015,"Acre","Feminino","Julho",1
+2015,"Acre","Feminino","Agosto",1
+2015,"Acre","Feminino","Setembro",1
+2015,"Acre","Feminino","Outubro",0
+2015,"Acre","Feminino","Novembro",1
+2015,"Acre","Feminino","Dezembro",2
+2015,"Amazonas","Feminino","Janeiro",2
+2015,"Amazonas","Feminino","Fevereiro",3
+2015,"Amazonas","Feminino","Março",2
+2015,"Amazonas","Feminino","Abril",2
+2015,"Amazonas","Feminino","Maio",3
+2015,"Amazonas","Feminino","Junho",3
+2015,"Amazonas","Feminino","Julho",28
+2015,"Amazonas","Feminino","Agosto",5
+2015,"Amazonas","Feminino","Setembro",3
+2015,"Amazonas","Feminino","Outubro",2
+2015,"Amazonas","Feminino","Novembro",1
+2015,"Amazonas","Feminino","Dezembro",0
+2015,"Roraima","Feminino","Janeiro",0
+2015,"Roraima","Feminino","Fevereiro",0
+2015,"Roraima","Feminino","Março",0
+2015,"Roraima","Feminino","Abril",1
+2015,"Roraima","Feminino","Maio",0
+2015,"Roraima","Feminino","Junho",1
+2015,"Roraima","Feminino","Julho",0
+2015,"Roraima","Feminino","Agosto",0
+2015,"Roraima","Feminino","Setembro",2
+2015,"Roraima","Feminino","Outubro",0
+2015,"Roraima","Feminino","Novembro",1
+2015,"Roraima","Feminino","Dezembro",1
+2015,"Pará","Feminino","Janeiro",0
+2015,"Pará","Feminino","Fevereiro",0
+2015,"Pará","Feminino","Março",2
+2015,"Pará","Feminino","Abril",1
+2015,"Pará","Feminino","Maio",1
+2015,"Pará","Feminino","Junho",4
+2015,"Pará","Feminino","Julho",1
+2015,"Pará","Feminino","Agosto",2
+2015,"Pará","Feminino","Setembro",3
+2015,"Pará","Feminino","Outubro",1
+2015,"Pará","Feminino","Novembro",2
+2015,"Pará","Feminino","Dezembro",15
+2015,"Amapá","Feminino","Janeiro",0
+2015,"Amapá","Feminino","Fevereiro",0
+2015,"Amapá","Feminino","Março",0
+2015,"Amapá","Feminino","Abril",0
+2015,"Amapá","Feminino","Maio",0
+2015,"Amapá","Feminino","Junho",0
+2015,"Amapá","Feminino","Julho",0
+2015,"Amapá","Feminino","Agosto",0
+2015,"Amapá","Feminino","Setembro",2
+2015,"Amapá","Feminino","Outubro",0
+2015,"Amapá","Feminino","Novembro",0
+2015,"Amapá","Feminino","Dezembro",1
+2015,"Tocantins","Feminino","Janeiro",0
+2015,"Tocantins","Feminino","Fevereiro",0
+2015,"Tocantins","Feminino","Março",0
+2015,"Tocantins","Feminino","Abril",0
+2015,"Tocantins","Feminino","Maio",0
+2015,"Tocantins","Feminino","Junho",0
+2015,"Tocantins","Feminino","Julho",0
+2015,"Tocantins","Feminino","Agosto",0
+2015,"Tocantins","Feminino","Setembro",0
+2015,"Tocantins","Feminino","Outubro",0
+2015,"Tocantins","Feminino","Novembro",1
+2015,"Tocantins","Feminino","Dezembro",1
+2015,"Maranhão","Feminino","Janeiro",0
+2015,"Maranhão","Feminino","Fevereiro",1
+2015,"Maranhão","Feminino","Março",2
+2015,"Maranhão","Feminino","Abril",0
+2015,"Maranhão","Feminino","Maio",1
+2015,"Maranhão","Feminino","Junho",1
+2015,"Maranhão","Feminino","Julho",5
+2015,"Maranhão","Feminino","Agosto",1
+2015,"Maranhão","Feminino","Setembro",5
+2015,"Maranhão","Feminino","Outubro",3
+2015,"Maranhão","Feminino","Novembro",0
+2015,"Maranhão","Feminino","Dezembro",5
+2015,"Piauí","Feminino","Janeiro",2
+2015,"Piauí","Feminino","Fevereiro",1
+2015,"Piauí","Feminino","Março",0
+2015,"Piauí","Feminino","Abril",0
+2015,"Piauí","Feminino","Maio",1
+2015,"Piauí","Feminino","Junho",1
+2015,"Piauí","Feminino","Julho",0
+2015,"Piauí","Feminino","Agosto",0
+2015,"Piauí","Feminino","Setembro",0
+2015,"Piauí","Feminino","Outubro",2
+2015,"Piauí","Feminino","Novembro",1
+2015,"Piauí","Feminino","Dezembro",1
+2015,"Ceará","Feminino","Janeiro",6
+2015,"Ceará","Feminino","Fevereiro",9
+2015,"Ceará","Feminino","Março",9
+2015,"Ceará","Feminino","Abril",17
+2015,"Ceará","Feminino","Maio",13
+2015,"Ceará","Feminino","Junho",30
+2015,"Ceará","Feminino","Julho",18
+2015,"Ceará","Feminino","Agosto",16
+2015,"Ceará","Feminino","Setembro",28
+2015,"Ceará","Feminino","Outubro",20
+2015,"Ceará","Feminino","Novembro",25
+2015,"Ceará","Feminino","Dezembro",32
+2015,"Rio Grande do Norte","Feminino","Janeiro",1
+2015,"Rio Grande do Norte","Feminino","Fevereiro",1
+2015,"Rio Grande do Norte","Feminino","Março",3
+2015,"Rio Grande do Norte","Feminino","Abril",2
+2015,"Rio Grande do Norte","Feminino","Maio",1
+2015,"Rio Grande do Norte","Feminino","Junho",1
+2015,"Rio Grande do Norte","Feminino","Julho",5
+2015,"Rio Grande do Norte","Feminino","Agosto",3
+2015,"Rio Grande do Norte","Feminino","Setembro",3
+2015,"Rio Grande do Norte","Feminino","Outubro",3
+2015,"Rio Grande do Norte","Feminino","Novembro",3
+2015,"Rio Grande do Norte","Feminino","Dezembro",5
+2015,"Paraíba","Feminino","Janeiro",2
+2015,"Paraíba","Feminino","Fevereiro",1
+2015,"Paraíba","Feminino","Março",5
+2015,"Paraíba","Feminino","Abril",2
+2015,"Paraíba","Feminino","Maio",1
+2015,"Paraíba","Feminino","Junho",3
+2015,"Paraíba","Feminino","Julho",1
+2015,"Paraíba","Feminino","Agosto",3
+2015,"Paraíba","Feminino","Setembro",4
+2015,"Paraíba","Feminino","Outubro",4
+2015,"Paraíba","Feminino","Novembro",1
+2015,"Paraíba","Feminino","Dezembro",4
+2015,"Pernambuco","Feminino","Janeiro",11
+2015,"Pernambuco","Feminino","Fevereiro",6
+2015,"Pernambuco","Feminino","Março",12
+2015,"Pernambuco","Feminino","Abril",8
+2015,"Pernambuco","Feminino","Maio",10
+2015,"Pernambuco","Feminino","Junho",7
+2015,"Pernambuco","Feminino","Julho",22
+2015,"Pernambuco","Feminino","Agosto",7
+2015,"Pernambuco","Feminino","Setembro",12
+2015,"Pernambuco","Feminino","Outubro",8
+2015,"Pernambuco","Feminino","Novembro",11
+2015,"Pernambuco","Feminino","Dezembro",15
+2015,"Alagoas","Feminino","Janeiro",1
+2015,"Alagoas","Feminino","Fevereiro",1
+2015,"Alagoas","Feminino","Março",3
+2015,"Alagoas","Feminino","Abril",1
+2015,"Alagoas","Feminino","Maio",3
+2015,"Alagoas","Feminino","Junho",1
+2015,"Alagoas","Feminino","Julho",1
+2015,"Alagoas","Feminino","Agosto",0
+2015,"Alagoas","Feminino","Setembro",2
+2015,"Alagoas","Feminino","Outubro",2
+2015,"Alagoas","Feminino","Novembro",3
+2015,"Alagoas","Feminino","Dezembro",11
+2015,"Sergipe","Feminino","Janeiro",0
+2015,"Sergipe","Feminino","Fevereiro",0
+2015,"Sergipe","Feminino","Março",2
+2015,"Sergipe","Feminino","Abril",5
+2015,"Sergipe","Feminino","Maio",2
+2015,"Sergipe","Feminino","Junho",2
+2015,"Sergipe","Feminino","Julho",0
+2015,"Sergipe","Feminino","Agosto",0
+2015,"Sergipe","Feminino","Setembro",2
+2015,"Sergipe","Feminino","Outubro",2
+2015,"Sergipe","Feminino","Novembro",0
+2015,"Sergipe","Feminino","Dezembro",1
+2015,"Bahia","Feminino","Janeiro",5
+2015,"Bahia","Feminino","Fevereiro",7
+2015,"Bahia","Feminino","Março",2
+2015,"Bahia","Feminino","Abril",6
+2015,"Bahia","Feminino","Maio",3
+2015,"Bahia","Feminino","Junho",4
+2015,"Bahia","Feminino","Julho",5
+2015,"Bahia","Feminino","Agosto",0
+2015,"Bahia","Feminino","Setembro",10
+2015,"Bahia","Feminino","Outubro",6
+2015,"Bahia","Feminino","Novembro",7
+2015,"Bahia","Feminino","Dezembro",6
+2015,"Minas Gerais","Feminino","Janeiro",23
+2015,"Minas Gerais","Feminino","Fevereiro",13
+2015,"Minas Gerais","Feminino","Março",10
+2015,"Minas Gerais","Feminino","Abril",10
+2015,"Minas Gerais","Feminino","Maio",16
+2015,"Minas Gerais","Feminino","Junho",10
+2015,"Minas Gerais","Feminino","Julho",18
+2015,"Minas Gerais","Feminino","Agosto",17
+2015,"Minas Gerais","Feminino","Setembro",20
+2015,"Minas Gerais","Feminino","Outubro",17
+2015,"Minas Gerais","Feminino","Novembro",21
+2015,"Minas Gerais","Feminino","Dezembro",26
+2015,"Espírito Santo","Feminino","Janeiro",2
+2015,"Espírito Santo","Feminino","Fevereiro",1
+2015,"Espírito Santo","Feminino","Março",2
+2015,"Espírito Santo","Feminino","Abril",6
+2015,"Espírito Santo","Feminino","Maio",3
+2015,"Espírito Santo","Feminino","Junho",2
+2015,"Espírito Santo","Feminino","Julho",6
+2015,"Espírito Santo","Feminino","Agosto",2
+2015,"Espírito Santo","Feminino","Setembro",1
+2015,"Espírito Santo","Feminino","Outubro",4
+2015,"Espírito Santo","Feminino","Novembro",4
+2015,"Espírito Santo","Feminino","Dezembro",4
+2015,"Rio de Janeiro","Feminino","Janeiro",13
+2015,"Rio de Janeiro","Feminino","Fevereiro",23
+2015,"Rio de Janeiro","Feminino","Março",23
+2015,"Rio de Janeiro","Feminino","Abril",15
+2015,"Rio de Janeiro","Feminino","Maio",18
+2015,"Rio de Janeiro","Feminino","Junho",26
+2015,"Rio de Janeiro","Feminino","Julho",26
+2015,"Rio de Janeiro","Feminino","Agosto",13
+2015,"Rio de Janeiro","Feminino","Setembro",26
+2015,"Rio de Janeiro","Feminino","Outubro",20
+2015,"Rio de Janeiro","Feminino","Novembro",27
+2015,"Rio de Janeiro","Feminino","Dezembro",107
+2015,"São Paulo","Feminino","Janeiro",87
+2015,"São Paulo","Feminino","Fevereiro",64
+2015,"São Paulo","Feminino","Março",95
+2015,"São Paulo","Feminino","Abril",72
+2015,"São Paulo","Feminino","Maio",76
+2015,"São Paulo","Feminino","Junho",86
+2015,"São Paulo","Feminino","Julho",100
+2015,"São Paulo","Feminino","Agosto",96
+2015,"São Paulo","Feminino","Setembro",109
+2015,"São Paulo","Feminino","Outubro",126
+2015,"São Paulo","Feminino","Novembro",111
+2015,"São Paulo","Feminino","Dezembro",128
+2015,"Paraná","Feminino","Janeiro",4
+2015,"Paraná","Feminino","Fevereiro",13
+2015,"Paraná","Feminino","Março",7
+2015,"Paraná","Feminino","Abril",12
+2015,"Paraná","Feminino","Maio",13
+2015,"Paraná","Feminino","Junho",7
+2015,"Paraná","Feminino","Julho",13
+2015,"Paraná","Feminino","Agosto",13
+2015,"Paraná","Feminino","Setembro",15
+2015,"Paraná","Feminino","Outubro",13
+2015,"Paraná","Feminino","Novembro",9
+2015,"Paraná","Feminino","Dezembro",18
+2015,"Santa Catarina","Feminino","Janeiro",6
+2015,"Santa Catarina","Feminino","Fevereiro",10
+2015,"Santa Catarina","Feminino","Março",3
+2015,"Santa Catarina","Feminino","Abril",8
+2015,"Santa Catarina","Feminino","Maio",17
+2015,"Santa Catarina","Feminino","Junho",9
+2015,"Santa Catarina","Feminino","Julho",12
+2015,"Santa Catarina","Feminino","Agosto",6
+2015,"Santa Catarina","Feminino","Setembro",30
+2015,"Santa Catarina","Feminino","Outubro",8
+2015,"Santa Catarina","Feminino","Novembro",11
+2015,"Santa Catarina","Feminino","Dezembro",19
+2015,"Rio Grande do Sul","Feminino","Janeiro",10
+2015,"Rio Grande do Sul","Feminino","Fevereiro",9
+2015,"Rio Grande do Sul","Feminino","Março",12
+2015,"Rio Grande do Sul","Feminino","Abril",9
+2015,"Rio Grande do Sul","Feminino","Maio",9
+2015,"Rio Grande do Sul","Feminino","Junho",7
+2015,"Rio Grande do Sul","Feminino","Julho",7
+2015,"Rio Grande do Sul","Feminino","Agosto",4
+2015,"Rio Grande do Sul","Feminino","Setembro",13
+2015,"Rio Grande do Sul","Feminino","Outubro",4
+2015,"Rio Grande do Sul","Feminino","Novembro",11
+2015,"Rio Grande do Sul","Feminino","Dezembro",8
+2015,"Mato Grosso do Sul","Feminino","Janeiro",4
+2015,"Mato Grosso do Sul","Feminino","Fevereiro",2
+2015,"Mato Grosso do Sul","Feminino","Março",1
+2015,"Mato Grosso do Sul","Feminino","Abril",4
+2015,"Mato Grosso do Sul","Feminino","Maio",3
+2015,"Mato Grosso do Sul","Feminino","Junho",2
+2015,"Mato Grosso do Sul","Feminino","Julho",4
+2015,"Mato Grosso do Sul","Feminino","Agosto",9
+2015,"Mato Grosso do Sul","Feminino","Setembro",4
+2015,"Mato Grosso do Sul","Feminino","Outubro",3
+2015,"Mato Grosso do Sul","Feminino","Novembro",3
+2015,"Mato Grosso do Sul","Feminino","Dezembro",6
+2015,"Mato Grosso","Feminino","Janeiro",0
+2015,"Mato Grosso","Feminino","Fevereiro",1
+2015,"Mato Grosso","Feminino","Março",0
+2015,"Mato Grosso","Feminino","Abril",2
+2015,"Mato Grosso","Feminino","Maio",0
+2015,"Mato Grosso","Feminino","Junho",1
+2015,"Mato Grosso","Feminino","Julho",1
+2015,"Mato Grosso","Feminino","Agosto",1
+2015,"Mato Grosso","Feminino","Setembro",3
+2015,"Mato Grosso","Feminino","Outubro",1
+2015,"Mato Grosso","Feminino","Novembro",1
+2015,"Mato Grosso","Feminino","Dezembro",0
+2015,"Goiás","Feminino","Janeiro",7
+2015,"Goiás","Feminino","Fevereiro",7
+2015,"Goiás","Feminino","Março",5
+2015,"Goiás","Feminino","Abril",3
+2015,"Goiás","Feminino","Maio",7
+2015,"Goiás","Feminino","Junho",6
+2015,"Goiás","Feminino","Julho",7
+2015,"Goiás","Feminino","Agosto",8
+2015,"Goiás","Feminino","Setembro",9
+2015,"Goiás","Feminino","Outubro",12
+2015,"Goiás","Feminino","Novembro",8
+2015,"Goiás","Feminino","Dezembro",16
+2015,"Distrito Federal","Feminino","Janeiro",2
+2015,"Distrito Federal","Feminino","Fevereiro",2
+2015,"Distrito Federal","Feminino","Março",5
+2015,"Distrito Federal","Feminino","Abril",7
+2015,"Distrito Federal","Feminino","Maio",4
+2015,"Distrito Federal","Feminino","Junho",16
+2015,"Distrito Federal","Feminino","Julho",5
+2015,"Distrito Federal","Feminino","Agosto",2
+2015,"Distrito Federal","Feminino","Setembro",3
+2015,"Distrito Federal","Feminino","Outubro",8
+2015,"Distrito Federal","Feminino","Novembro",5
+2015,"Distrito Federal","Feminino","Dezembro",5

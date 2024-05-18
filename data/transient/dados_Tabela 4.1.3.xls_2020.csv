@@ -1,0 +1,325 @@
+"ano","uf","genero","mes","numero"
+2020,"Rondônia","Masculino","Janeiro",0
+2020,"Rondônia","Masculino","Fevereiro",2
+2020,"Rondônia","Masculino","Março",0
+2020,"Rondônia","Masculino","Abril",1
+2020,"Rondônia","Masculino","Maio",0
+2020,"Rondônia","Masculino","Junho",0
+2020,"Rondônia","Masculino","Julho",2
+2020,"Rondônia","Masculino","Agosto",1
+2020,"Rondônia","Masculino","Setembro",1
+2020,"Rondônia","Masculino","Outubro",2
+2020,"Rondônia","Masculino","Novembro",1
+2020,"Rondônia","Masculino","Dezembro",1
+2020,"Acre","Masculino","Janeiro",0
+2020,"Acre","Masculino","Fevereiro",0
+2020,"Acre","Masculino","Março",0
+2020,"Acre","Masculino","Abril",0
+2020,"Acre","Masculino","Maio",0
+2020,"Acre","Masculino","Junho",0
+2020,"Acre","Masculino","Julho",0
+2020,"Acre","Masculino","Agosto",0
+2020,"Acre","Masculino","Setembro",0
+2020,"Acre","Masculino","Outubro",1
+2020,"Acre","Masculino","Novembro",1
+2020,"Acre","Masculino","Dezembro",0
+2020,"Amazonas","Masculino","Janeiro",1
+2020,"Amazonas","Masculino","Fevereiro",2
+2020,"Amazonas","Masculino","Março",6
+2020,"Amazonas","Masculino","Abril",0
+2020,"Amazonas","Masculino","Maio",1
+2020,"Amazonas","Masculino","Junho",0
+2020,"Amazonas","Masculino","Julho",1
+2020,"Amazonas","Masculino","Agosto",1
+2020,"Amazonas","Masculino","Setembro",0
+2020,"Amazonas","Masculino","Outubro",3
+2020,"Amazonas","Masculino","Novembro",3
+2020,"Amazonas","Masculino","Dezembro",6
+2020,"Roraima","Masculino","Janeiro",1
+2020,"Roraima","Masculino","Fevereiro",0
+2020,"Roraima","Masculino","Março",1
+2020,"Roraima","Masculino","Abril",0
+2020,"Roraima","Masculino","Maio",0
+2020,"Roraima","Masculino","Junho",2
+2020,"Roraima","Masculino","Julho",0
+2020,"Roraima","Masculino","Agosto",0
+2020,"Roraima","Masculino","Setembro",0
+2020,"Roraima","Masculino","Outubro",0
+2020,"Roraima","Masculino","Novembro",1
+2020,"Roraima","Masculino","Dezembro",0
+2020,"Pará","Masculino","Janeiro",1
+2020,"Pará","Masculino","Fevereiro",5
+2020,"Pará","Masculino","Março",1
+2020,"Pará","Masculino","Abril",0
+2020,"Pará","Masculino","Maio",0
+2020,"Pará","Masculino","Junho",1
+2020,"Pará","Masculino","Julho",2
+2020,"Pará","Masculino","Agosto",5
+2020,"Pará","Masculino","Setembro",3
+2020,"Pará","Masculino","Outubro",5
+2020,"Pará","Masculino","Novembro",1
+2020,"Pará","Masculino","Dezembro",4
+2020,"Amapá","Masculino","Janeiro",0
+2020,"Amapá","Masculino","Fevereiro",1
+2020,"Amapá","Masculino","Março",2
+2020,"Amapá","Masculino","Abril",0
+2020,"Amapá","Masculino","Maio",0
+2020,"Amapá","Masculino","Junho",0
+2020,"Amapá","Masculino","Julho",0
+2020,"Amapá","Masculino","Agosto",0
+2020,"Amapá","Masculino","Setembro",0
+2020,"Amapá","Masculino","Outubro",0
+2020,"Amapá","Masculino","Novembro",0
+2020,"Amapá","Masculino","Dezembro",0
+2020,"Tocantins","Masculino","Janeiro",0
+2020,"Tocantins","Masculino","Fevereiro",1
+2020,"Tocantins","Masculino","Março",0
+2020,"Tocantins","Masculino","Abril",0
+2020,"Tocantins","Masculino","Maio",1
+2020,"Tocantins","Masculino","Junho",0
+2020,"Tocantins","Masculino","Julho",0
+2020,"Tocantins","Masculino","Agosto",1
+2020,"Tocantins","Masculino","Setembro",2
+2020,"Tocantins","Masculino","Outubro",3
+2020,"Tocantins","Masculino","Novembro",0
+2020,"Tocantins","Masculino","Dezembro",0
+2020,"Maranhão","Masculino","Janeiro",3
+2020,"Maranhão","Masculino","Fevereiro",2
+2020,"Maranhão","Masculino","Março",3
+2020,"Maranhão","Masculino","Abril",2
+2020,"Maranhão","Masculino","Maio",2
+2020,"Maranhão","Masculino","Junho",1
+2020,"Maranhão","Masculino","Julho",1
+2020,"Maranhão","Masculino","Agosto",1
+2020,"Maranhão","Masculino","Setembro",2
+2020,"Maranhão","Masculino","Outubro",2
+2020,"Maranhão","Masculino","Novembro",0
+2020,"Maranhão","Masculino","Dezembro",2
+2020,"Piauí","Masculino","Janeiro",1
+2020,"Piauí","Masculino","Fevereiro",0
+2020,"Piauí","Masculino","Março",0
+2020,"Piauí","Masculino","Abril",0
+2020,"Piauí","Masculino","Maio",0
+2020,"Piauí","Masculino","Junho",0
+2020,"Piauí","Masculino","Julho",0
+2020,"Piauí","Masculino","Agosto",0
+2020,"Piauí","Masculino","Setembro",0
+2020,"Piauí","Masculino","Outubro",1
+2020,"Piauí","Masculino","Novembro",2
+2020,"Piauí","Masculino","Dezembro",0
+2020,"Ceará","Masculino","Janeiro",8
+2020,"Ceará","Masculino","Fevereiro",6
+2020,"Ceará","Masculino","Março",3
+2020,"Ceará","Masculino","Abril",3
+2020,"Ceará","Masculino","Maio",1
+2020,"Ceará","Masculino","Junho",2
+2020,"Ceará","Masculino","Julho",3
+2020,"Ceará","Masculino","Agosto",6
+2020,"Ceará","Masculino","Setembro",6
+2020,"Ceará","Masculino","Outubro",12
+2020,"Ceará","Masculino","Novembro",12
+2020,"Ceará","Masculino","Dezembro",11
+2020,"Rio Grande do Norte","Masculino","Janeiro",4
+2020,"Rio Grande do Norte","Masculino","Fevereiro",1
+2020,"Rio Grande do Norte","Masculino","Março",0
+2020,"Rio Grande do Norte","Masculino","Abril",2
+2020,"Rio Grande do Norte","Masculino","Maio",3
+2020,"Rio Grande do Norte","Masculino","Junho",2
+2020,"Rio Grande do Norte","Masculino","Julho",2
+2020,"Rio Grande do Norte","Masculino","Agosto",1
+2020,"Rio Grande do Norte","Masculino","Setembro",2
+2020,"Rio Grande do Norte","Masculino","Outubro",1
+2020,"Rio Grande do Norte","Masculino","Novembro",3
+2020,"Rio Grande do Norte","Masculino","Dezembro",5
+2020,"Paraíba","Masculino","Janeiro",4
+2020,"Paraíba","Masculino","Fevereiro",2
+2020,"Paraíba","Masculino","Março",2
+2020,"Paraíba","Masculino","Abril",0
+2020,"Paraíba","Masculino","Maio",0
+2020,"Paraíba","Masculino","Junho",4
+2020,"Paraíba","Masculino","Julho",6
+2020,"Paraíba","Masculino","Agosto",4
+2020,"Paraíba","Masculino","Setembro",8
+2020,"Paraíba","Masculino","Outubro",6
+2020,"Paraíba","Masculino","Novembro",7
+2020,"Paraíba","Masculino","Dezembro",6
+2020,"Pernambuco","Masculino","Janeiro",3
+2020,"Pernambuco","Masculino","Fevereiro",4
+2020,"Pernambuco","Masculino","Março",5
+2020,"Pernambuco","Masculino","Abril",3
+2020,"Pernambuco","Masculino","Maio",3
+2020,"Pernambuco","Masculino","Junho",3
+2020,"Pernambuco","Masculino","Julho",4
+2020,"Pernambuco","Masculino","Agosto",4
+2020,"Pernambuco","Masculino","Setembro",12
+2020,"Pernambuco","Masculino","Outubro",13
+2020,"Pernambuco","Masculino","Novembro",6
+2020,"Pernambuco","Masculino","Dezembro",12
+2020,"Alagoas","Masculino","Janeiro",3
+2020,"Alagoas","Masculino","Fevereiro",2
+2020,"Alagoas","Masculino","Março",3
+2020,"Alagoas","Masculino","Abril",0
+2020,"Alagoas","Masculino","Maio",2
+2020,"Alagoas","Masculino","Junho",0
+2020,"Alagoas","Masculino","Julho",4
+2020,"Alagoas","Masculino","Agosto",0
+2020,"Alagoas","Masculino","Setembro",6
+2020,"Alagoas","Masculino","Outubro",3
+2020,"Alagoas","Masculino","Novembro",3
+2020,"Alagoas","Masculino","Dezembro",2
+2020,"Sergipe","Masculino","Janeiro",1
+2020,"Sergipe","Masculino","Fevereiro",1
+2020,"Sergipe","Masculino","Março",0
+2020,"Sergipe","Masculino","Abril",0
+2020,"Sergipe","Masculino","Maio",0
+2020,"Sergipe","Masculino","Junho",0
+2020,"Sergipe","Masculino","Julho",1
+2020,"Sergipe","Masculino","Agosto",1
+2020,"Sergipe","Masculino","Setembro",0
+2020,"Sergipe","Masculino","Outubro",2
+2020,"Sergipe","Masculino","Novembro",0
+2020,"Sergipe","Masculino","Dezembro",1
+2020,"Bahia","Masculino","Janeiro",10
+2020,"Bahia","Masculino","Fevereiro",6
+2020,"Bahia","Masculino","Março",13
+2020,"Bahia","Masculino","Abril",3
+2020,"Bahia","Masculino","Maio",1
+2020,"Bahia","Masculino","Junho",4
+2020,"Bahia","Masculino","Julho",5
+2020,"Bahia","Masculino","Agosto",7
+2020,"Bahia","Masculino","Setembro",2
+2020,"Bahia","Masculino","Outubro",6
+2020,"Bahia","Masculino","Novembro",10
+2020,"Bahia","Masculino","Dezembro",22
+2020,"Minas Gerais","Masculino","Janeiro",15
+2020,"Minas Gerais","Masculino","Fevereiro",17
+2020,"Minas Gerais","Masculino","Março",15
+2020,"Minas Gerais","Masculino","Abril",7
+2020,"Minas Gerais","Masculino","Maio",7
+2020,"Minas Gerais","Masculino","Junho",14
+2020,"Minas Gerais","Masculino","Julho",14
+2020,"Minas Gerais","Masculino","Agosto",16
+2020,"Minas Gerais","Masculino","Setembro",22
+2020,"Minas Gerais","Masculino","Outubro",31
+2020,"Minas Gerais","Masculino","Novembro",30
+2020,"Minas Gerais","Masculino","Dezembro",26
+2020,"Espírito Santo","Masculino","Janeiro",8
+2020,"Espírito Santo","Masculino","Fevereiro",3
+2020,"Espírito Santo","Masculino","Março",3
+2020,"Espírito Santo","Masculino","Abril",3
+2020,"Espírito Santo","Masculino","Maio",4
+2020,"Espírito Santo","Masculino","Junho",3
+2020,"Espírito Santo","Masculino","Julho",1
+2020,"Espírito Santo","Masculino","Agosto",1
+2020,"Espírito Santo","Masculino","Setembro",9
+2020,"Espírito Santo","Masculino","Outubro",6
+2020,"Espírito Santo","Masculino","Novembro",5
+2020,"Espírito Santo","Masculino","Dezembro",15
+2020,"Rio de Janeiro","Masculino","Janeiro",24
+2020,"Rio de Janeiro","Masculino","Fevereiro",10
+2020,"Rio de Janeiro","Masculino","Março",13
+2020,"Rio de Janeiro","Masculino","Abril",3
+2020,"Rio de Janeiro","Masculino","Maio",11
+2020,"Rio de Janeiro","Masculino","Junho",8
+2020,"Rio de Janeiro","Masculino","Julho",10
+2020,"Rio de Janeiro","Masculino","Agosto",12
+2020,"Rio de Janeiro","Masculino","Setembro",18
+2020,"Rio de Janeiro","Masculino","Outubro",19
+2020,"Rio de Janeiro","Masculino","Novembro",11
+2020,"Rio de Janeiro","Masculino","Dezembro",25
+2020,"São Paulo","Masculino","Janeiro",100
+2020,"São Paulo","Masculino","Fevereiro",134
+2020,"São Paulo","Masculino","Março",111
+2020,"São Paulo","Masculino","Abril",48
+2020,"São Paulo","Masculino","Maio",49
+2020,"São Paulo","Masculino","Junho",55
+2020,"São Paulo","Masculino","Julho",64
+2020,"São Paulo","Masculino","Agosto",82
+2020,"São Paulo","Masculino","Setembro",97
+2020,"São Paulo","Masculino","Outubro",125
+2020,"São Paulo","Masculino","Novembro",108
+2020,"São Paulo","Masculino","Dezembro",119
+2020,"Paraná","Masculino","Janeiro",12
+2020,"Paraná","Masculino","Fevereiro",10
+2020,"Paraná","Masculino","Março",12
+2020,"Paraná","Masculino","Abril",8
+2020,"Paraná","Masculino","Maio",6
+2020,"Paraná","Masculino","Junho",11
+2020,"Paraná","Masculino","Julho",9
+2020,"Paraná","Masculino","Agosto",11
+2020,"Paraná","Masculino","Setembro",14
+2020,"Paraná","Masculino","Outubro",13
+2020,"Paraná","Masculino","Novembro",7
+2020,"Paraná","Masculino","Dezembro",17
+2020,"Santa Catarina","Masculino","Janeiro",9
+2020,"Santa Catarina","Masculino","Fevereiro",9
+2020,"Santa Catarina","Masculino","Março",10
+2020,"Santa Catarina","Masculino","Abril",6
+2020,"Santa Catarina","Masculino","Maio",7
+2020,"Santa Catarina","Masculino","Junho",8
+2020,"Santa Catarina","Masculino","Julho",10
+2020,"Santa Catarina","Masculino","Agosto",6
+2020,"Santa Catarina","Masculino","Setembro",11
+2020,"Santa Catarina","Masculino","Outubro",12
+2020,"Santa Catarina","Masculino","Novembro",8
+2020,"Santa Catarina","Masculino","Dezembro",14
+2020,"Rio Grande do Sul","Masculino","Janeiro",7
+2020,"Rio Grande do Sul","Masculino","Fevereiro",18
+2020,"Rio Grande do Sul","Masculino","Março",9
+2020,"Rio Grande do Sul","Masculino","Abril",2
+2020,"Rio Grande do Sul","Masculino","Maio",4
+2020,"Rio Grande do Sul","Masculino","Junho",5
+2020,"Rio Grande do Sul","Masculino","Julho",2
+2020,"Rio Grande do Sul","Masculino","Agosto",7
+2020,"Rio Grande do Sul","Masculino","Setembro",10
+2020,"Rio Grande do Sul","Masculino","Outubro",11
+2020,"Rio Grande do Sul","Masculino","Novembro",9
+2020,"Rio Grande do Sul","Masculino","Dezembro",18
+2020,"Mato Grosso do Sul","Masculino","Janeiro",3
+2020,"Mato Grosso do Sul","Masculino","Fevereiro",4
+2020,"Mato Grosso do Sul","Masculino","Março",5
+2020,"Mato Grosso do Sul","Masculino","Abril",1
+2020,"Mato Grosso do Sul","Masculino","Maio",2
+2020,"Mato Grosso do Sul","Masculino","Junho",2
+2020,"Mato Grosso do Sul","Masculino","Julho",2
+2020,"Mato Grosso do Sul","Masculino","Agosto",1
+2020,"Mato Grosso do Sul","Masculino","Setembro",0
+2020,"Mato Grosso do Sul","Masculino","Outubro",4
+2020,"Mato Grosso do Sul","Masculino","Novembro",4
+2020,"Mato Grosso do Sul","Masculino","Dezembro",3
+2020,"Mato Grosso","Masculino","Janeiro",3
+2020,"Mato Grosso","Masculino","Fevereiro",3
+2020,"Mato Grosso","Masculino","Março",0
+2020,"Mato Grosso","Masculino","Abril",0
+2020,"Mato Grosso","Masculino","Maio",1
+2020,"Mato Grosso","Masculino","Junho",1
+2020,"Mato Grosso","Masculino","Julho",3
+2020,"Mato Grosso","Masculino","Agosto",3
+2020,"Mato Grosso","Masculino","Setembro",3
+2020,"Mato Grosso","Masculino","Outubro",8
+2020,"Mato Grosso","Masculino","Novembro",11
+2020,"Mato Grosso","Masculino","Dezembro",9
+2020,"Goiás","Masculino","Janeiro",5
+2020,"Goiás","Masculino","Fevereiro",4
+2020,"Goiás","Masculino","Março",3
+2020,"Goiás","Masculino","Abril",1
+2020,"Goiás","Masculino","Maio",11
+2020,"Goiás","Masculino","Junho",2
+2020,"Goiás","Masculino","Julho",9
+2020,"Goiás","Masculino","Agosto",5
+2020,"Goiás","Masculino","Setembro",12
+2020,"Goiás","Masculino","Outubro",17
+2020,"Goiás","Masculino","Novembro",10
+2020,"Goiás","Masculino","Dezembro",23
+2020,"Distrito Federal","Masculino","Janeiro",8
+2020,"Distrito Federal","Masculino","Fevereiro",6
+2020,"Distrito Federal","Masculino","Março",7
+2020,"Distrito Federal","Masculino","Abril",0
+2020,"Distrito Federal","Masculino","Maio",3
+2020,"Distrito Federal","Masculino","Junho",6
+2020,"Distrito Federal","Masculino","Julho",6
+2020,"Distrito Federal","Masculino","Agosto",7
+2020,"Distrito Federal","Masculino","Setembro",6
+2020,"Distrito Federal","Masculino","Outubro",7
+2020,"Distrito Federal","Masculino","Novembro",8
+2020,"Distrito Federal","Masculino","Dezembro",4

@@ -1,0 +1,325 @@
+"ano","uf","genero","mes","numero"
+2016,"Rondônia","Masculino","Janeiro",0
+2016,"Rondônia","Masculino","Fevereiro",1
+2016,"Rondônia","Masculino","Março",0
+2016,"Rondônia","Masculino","Abril",1
+2016,"Rondônia","Masculino","Maio",0
+2016,"Rondônia","Masculino","Junho",2
+2016,"Rondônia","Masculino","Julho",0
+2016,"Rondônia","Masculino","Agosto",1
+2016,"Rondônia","Masculino","Setembro",0
+2016,"Rondônia","Masculino","Outubro",1
+2016,"Rondônia","Masculino","Novembro",2
+2016,"Rondônia","Masculino","Dezembro",0
+2016,"Acre","Masculino","Janeiro",0
+2016,"Acre","Masculino","Fevereiro",0
+2016,"Acre","Masculino","Março",0
+2016,"Acre","Masculino","Abril",0
+2016,"Acre","Masculino","Maio",0
+2016,"Acre","Masculino","Junho",0
+2016,"Acre","Masculino","Julho",0
+2016,"Acre","Masculino","Agosto",0
+2016,"Acre","Masculino","Setembro",0
+2016,"Acre","Masculino","Outubro",0
+2016,"Acre","Masculino","Novembro",0
+2016,"Acre","Masculino","Dezembro",0
+2016,"Amazonas","Masculino","Janeiro",7
+2016,"Amazonas","Masculino","Fevereiro",1
+2016,"Amazonas","Masculino","Março",5
+2016,"Amazonas","Masculino","Abril",2
+2016,"Amazonas","Masculino","Maio",1
+2016,"Amazonas","Masculino","Junho",3
+2016,"Amazonas","Masculino","Julho",2
+2016,"Amazonas","Masculino","Agosto",2
+2016,"Amazonas","Masculino","Setembro",0
+2016,"Amazonas","Masculino","Outubro",2
+2016,"Amazonas","Masculino","Novembro",3
+2016,"Amazonas","Masculino","Dezembro",3
+2016,"Roraima","Masculino","Janeiro",0
+2016,"Roraima","Masculino","Fevereiro",0
+2016,"Roraima","Masculino","Março",0
+2016,"Roraima","Masculino","Abril",1
+2016,"Roraima","Masculino","Maio",0
+2016,"Roraima","Masculino","Junho",0
+2016,"Roraima","Masculino","Julho",0
+2016,"Roraima","Masculino","Agosto",0
+2016,"Roraima","Masculino","Setembro",0
+2016,"Roraima","Masculino","Outubro",0
+2016,"Roraima","Masculino","Novembro",0
+2016,"Roraima","Masculino","Dezembro",1
+2016,"Pará","Masculino","Janeiro",4
+2016,"Pará","Masculino","Fevereiro",3
+2016,"Pará","Masculino","Março",2
+2016,"Pará","Masculino","Abril",2
+2016,"Pará","Masculino","Maio",2
+2016,"Pará","Masculino","Junho",2
+2016,"Pará","Masculino","Julho",0
+2016,"Pará","Masculino","Agosto",2
+2016,"Pará","Masculino","Setembro",6
+2016,"Pará","Masculino","Outubro",3
+2016,"Pará","Masculino","Novembro",3
+2016,"Pará","Masculino","Dezembro",6
+2016,"Amapá","Masculino","Janeiro",0
+2016,"Amapá","Masculino","Fevereiro",0
+2016,"Amapá","Masculino","Março",0
+2016,"Amapá","Masculino","Abril",0
+2016,"Amapá","Masculino","Maio",1
+2016,"Amapá","Masculino","Junho",0
+2016,"Amapá","Masculino","Julho",0
+2016,"Amapá","Masculino","Agosto",0
+2016,"Amapá","Masculino","Setembro",0
+2016,"Amapá","Masculino","Outubro",0
+2016,"Amapá","Masculino","Novembro",0
+2016,"Amapá","Masculino","Dezembro",0
+2016,"Tocantins","Masculino","Janeiro",0
+2016,"Tocantins","Masculino","Fevereiro",0
+2016,"Tocantins","Masculino","Março",0
+2016,"Tocantins","Masculino","Abril",1
+2016,"Tocantins","Masculino","Maio",0
+2016,"Tocantins","Masculino","Junho",0
+2016,"Tocantins","Masculino","Julho",0
+2016,"Tocantins","Masculino","Agosto",0
+2016,"Tocantins","Masculino","Setembro",0
+2016,"Tocantins","Masculino","Outubro",1
+2016,"Tocantins","Masculino","Novembro",1
+2016,"Tocantins","Masculino","Dezembro",1
+2016,"Maranhão","Masculino","Janeiro",0
+2016,"Maranhão","Masculino","Fevereiro",1
+2016,"Maranhão","Masculino","Março",0
+2016,"Maranhão","Masculino","Abril",1
+2016,"Maranhão","Masculino","Maio",0
+2016,"Maranhão","Masculino","Junho",1
+2016,"Maranhão","Masculino","Julho",0
+2016,"Maranhão","Masculino","Agosto",1
+2016,"Maranhão","Masculino","Setembro",1
+2016,"Maranhão","Masculino","Outubro",0
+2016,"Maranhão","Masculino","Novembro",0
+2016,"Maranhão","Masculino","Dezembro",0
+2016,"Piauí","Masculino","Janeiro",2
+2016,"Piauí","Masculino","Fevereiro",0
+2016,"Piauí","Masculino","Março",0
+2016,"Piauí","Masculino","Abril",1
+2016,"Piauí","Masculino","Maio",0
+2016,"Piauí","Masculino","Junho",1
+2016,"Piauí","Masculino","Julho",0
+2016,"Piauí","Masculino","Agosto",0
+2016,"Piauí","Masculino","Setembro",1
+2016,"Piauí","Masculino","Outubro",0
+2016,"Piauí","Masculino","Novembro",1
+2016,"Piauí","Masculino","Dezembro",1
+2016,"Ceará","Masculino","Janeiro",6
+2016,"Ceará","Masculino","Fevereiro",7
+2016,"Ceará","Masculino","Março",4
+2016,"Ceará","Masculino","Abril",2
+2016,"Ceará","Masculino","Maio",5
+2016,"Ceará","Masculino","Junho",8
+2016,"Ceará","Masculino","Julho",8
+2016,"Ceará","Masculino","Agosto",9
+2016,"Ceará","Masculino","Setembro",8
+2016,"Ceará","Masculino","Outubro",6
+2016,"Ceará","Masculino","Novembro",8
+2016,"Ceará","Masculino","Dezembro",12
+2016,"Rio Grande do Norte","Masculino","Janeiro",1
+2016,"Rio Grande do Norte","Masculino","Fevereiro",1
+2016,"Rio Grande do Norte","Masculino","Março",2
+2016,"Rio Grande do Norte","Masculino","Abril",4
+2016,"Rio Grande do Norte","Masculino","Maio",1
+2016,"Rio Grande do Norte","Masculino","Junho",4
+2016,"Rio Grande do Norte","Masculino","Julho",1
+2016,"Rio Grande do Norte","Masculino","Agosto",3
+2016,"Rio Grande do Norte","Masculino","Setembro",0
+2016,"Rio Grande do Norte","Masculino","Outubro",5
+2016,"Rio Grande do Norte","Masculino","Novembro",4
+2016,"Rio Grande do Norte","Masculino","Dezembro",2
+2016,"Paraíba","Masculino","Janeiro",3
+2016,"Paraíba","Masculino","Fevereiro",0
+2016,"Paraíba","Masculino","Março",9
+2016,"Paraíba","Masculino","Abril",1
+2016,"Paraíba","Masculino","Maio",1
+2016,"Paraíba","Masculino","Junho",1
+2016,"Paraíba","Masculino","Julho",6
+2016,"Paraíba","Masculino","Agosto",1
+2016,"Paraíba","Masculino","Setembro",2
+2016,"Paraíba","Masculino","Outubro",2
+2016,"Paraíba","Masculino","Novembro",1
+2016,"Paraíba","Masculino","Dezembro",1
+2016,"Pernambuco","Masculino","Janeiro",3
+2016,"Pernambuco","Masculino","Fevereiro",4
+2016,"Pernambuco","Masculino","Março",2
+2016,"Pernambuco","Masculino","Abril",5
+2016,"Pernambuco","Masculino","Maio",3
+2016,"Pernambuco","Masculino","Junho",5
+2016,"Pernambuco","Masculino","Julho",3
+2016,"Pernambuco","Masculino","Agosto",4
+2016,"Pernambuco","Masculino","Setembro",7
+2016,"Pernambuco","Masculino","Outubro",4
+2016,"Pernambuco","Masculino","Novembro",4
+2016,"Pernambuco","Masculino","Dezembro",4
+2016,"Alagoas","Masculino","Janeiro",4
+2016,"Alagoas","Masculino","Fevereiro",1
+2016,"Alagoas","Masculino","Março",0
+2016,"Alagoas","Masculino","Abril",1
+2016,"Alagoas","Masculino","Maio",1
+2016,"Alagoas","Masculino","Junho",1
+2016,"Alagoas","Masculino","Julho",1
+2016,"Alagoas","Masculino","Agosto",1
+2016,"Alagoas","Masculino","Setembro",0
+2016,"Alagoas","Masculino","Outubro",0
+2016,"Alagoas","Masculino","Novembro",1
+2016,"Alagoas","Masculino","Dezembro",1
+2016,"Sergipe","Masculino","Janeiro",0
+2016,"Sergipe","Masculino","Fevereiro",1
+2016,"Sergipe","Masculino","Março",2
+2016,"Sergipe","Masculino","Abril",0
+2016,"Sergipe","Masculino","Maio",1
+2016,"Sergipe","Masculino","Junho",0
+2016,"Sergipe","Masculino","Julho",1
+2016,"Sergipe","Masculino","Agosto",1
+2016,"Sergipe","Masculino","Setembro",1
+2016,"Sergipe","Masculino","Outubro",1
+2016,"Sergipe","Masculino","Novembro",0
+2016,"Sergipe","Masculino","Dezembro",3
+2016,"Bahia","Masculino","Janeiro",10
+2016,"Bahia","Masculino","Fevereiro",6
+2016,"Bahia","Masculino","Março",11
+2016,"Bahia","Masculino","Abril",8
+2016,"Bahia","Masculino","Maio",3
+2016,"Bahia","Masculino","Junho",3
+2016,"Bahia","Masculino","Julho",8
+2016,"Bahia","Masculino","Agosto",2
+2016,"Bahia","Masculino","Setembro",10
+2016,"Bahia","Masculino","Outubro",6
+2016,"Bahia","Masculino","Novembro",4
+2016,"Bahia","Masculino","Dezembro",8
+2016,"Minas Gerais","Masculino","Janeiro",10
+2016,"Minas Gerais","Masculino","Fevereiro",7
+2016,"Minas Gerais","Masculino","Março",12
+2016,"Minas Gerais","Masculino","Abril",14
+2016,"Minas Gerais","Masculino","Maio",14
+2016,"Minas Gerais","Masculino","Junho",12
+2016,"Minas Gerais","Masculino","Julho",27
+2016,"Minas Gerais","Masculino","Agosto",15
+2016,"Minas Gerais","Masculino","Setembro",28
+2016,"Minas Gerais","Masculino","Outubro",17
+2016,"Minas Gerais","Masculino","Novembro",22
+2016,"Minas Gerais","Masculino","Dezembro",19
+2016,"Espírito Santo","Masculino","Janeiro",3
+2016,"Espírito Santo","Masculino","Fevereiro",0
+2016,"Espírito Santo","Masculino","Março",5
+2016,"Espírito Santo","Masculino","Abril",2
+2016,"Espírito Santo","Masculino","Maio",9
+2016,"Espírito Santo","Masculino","Junho",2
+2016,"Espírito Santo","Masculino","Julho",0
+2016,"Espírito Santo","Masculino","Agosto",1
+2016,"Espírito Santo","Masculino","Setembro",2
+2016,"Espírito Santo","Masculino","Outubro",0
+2016,"Espírito Santo","Masculino","Novembro",5
+2016,"Espírito Santo","Masculino","Dezembro",1
+2016,"Rio de Janeiro","Masculino","Janeiro",14
+2016,"Rio de Janeiro","Masculino","Fevereiro",27
+2016,"Rio de Janeiro","Masculino","Março",22
+2016,"Rio de Janeiro","Masculino","Abril",32
+2016,"Rio de Janeiro","Masculino","Maio",24
+2016,"Rio de Janeiro","Masculino","Junho",24
+2016,"Rio de Janeiro","Masculino","Julho",19
+2016,"Rio de Janeiro","Masculino","Agosto",27
+2016,"Rio de Janeiro","Masculino","Setembro",26
+2016,"Rio de Janeiro","Masculino","Outubro",26
+2016,"Rio de Janeiro","Masculino","Novembro",19
+2016,"Rio de Janeiro","Masculino","Dezembro",15
+2016,"São Paulo","Masculino","Janeiro",75
+2016,"São Paulo","Masculino","Fevereiro",57
+2016,"São Paulo","Masculino","Março",66
+2016,"São Paulo","Masculino","Abril",72
+2016,"São Paulo","Masculino","Maio",65
+2016,"São Paulo","Masculino","Junho",75
+2016,"São Paulo","Masculino","Julho",64
+2016,"São Paulo","Masculino","Agosto",70
+2016,"São Paulo","Masculino","Setembro",102
+2016,"São Paulo","Masculino","Outubro",80
+2016,"São Paulo","Masculino","Novembro",81
+2016,"São Paulo","Masculino","Dezembro",85
+2016,"Paraná","Masculino","Janeiro",10
+2016,"Paraná","Masculino","Fevereiro",7
+2016,"Paraná","Masculino","Março",9
+2016,"Paraná","Masculino","Abril",11
+2016,"Paraná","Masculino","Maio",6
+2016,"Paraná","Masculino","Junho",11
+2016,"Paraná","Masculino","Julho",11
+2016,"Paraná","Masculino","Agosto",12
+2016,"Paraná","Masculino","Setembro",6
+2016,"Paraná","Masculino","Outubro",13
+2016,"Paraná","Masculino","Novembro",13
+2016,"Paraná","Masculino","Dezembro",9
+2016,"Santa Catarina","Masculino","Janeiro",22
+2016,"Santa Catarina","Masculino","Fevereiro",17
+2016,"Santa Catarina","Masculino","Março",22
+2016,"Santa Catarina","Masculino","Abril",15
+2016,"Santa Catarina","Masculino","Maio",17
+2016,"Santa Catarina","Masculino","Junho",22
+2016,"Santa Catarina","Masculino","Julho",18
+2016,"Santa Catarina","Masculino","Agosto",21
+2016,"Santa Catarina","Masculino","Setembro",27
+2016,"Santa Catarina","Masculino","Outubro",15
+2016,"Santa Catarina","Masculino","Novembro",23
+2016,"Santa Catarina","Masculino","Dezembro",26
+2016,"Rio Grande do Sul","Masculino","Janeiro",5
+2016,"Rio Grande do Sul","Masculino","Fevereiro",2
+2016,"Rio Grande do Sul","Masculino","Março",8
+2016,"Rio Grande do Sul","Masculino","Abril",11
+2016,"Rio Grande do Sul","Masculino","Maio",9
+2016,"Rio Grande do Sul","Masculino","Junho",4
+2016,"Rio Grande do Sul","Masculino","Julho",4
+2016,"Rio Grande do Sul","Masculino","Agosto",7
+2016,"Rio Grande do Sul","Masculino","Setembro",8
+2016,"Rio Grande do Sul","Masculino","Outubro",7
+2016,"Rio Grande do Sul","Masculino","Novembro",12
+2016,"Rio Grande do Sul","Masculino","Dezembro",12
+2016,"Mato Grosso do Sul","Masculino","Janeiro",1
+2016,"Mato Grosso do Sul","Masculino","Fevereiro",1
+2016,"Mato Grosso do Sul","Masculino","Março",2
+2016,"Mato Grosso do Sul","Masculino","Abril",1
+2016,"Mato Grosso do Sul","Masculino","Maio",2
+2016,"Mato Grosso do Sul","Masculino","Junho",1
+2016,"Mato Grosso do Sul","Masculino","Julho",6
+2016,"Mato Grosso do Sul","Masculino","Agosto",3
+2016,"Mato Grosso do Sul","Masculino","Setembro",4
+2016,"Mato Grosso do Sul","Masculino","Outubro",3
+2016,"Mato Grosso do Sul","Masculino","Novembro",4
+2016,"Mato Grosso do Sul","Masculino","Dezembro",4
+2016,"Mato Grosso","Masculino","Janeiro",0
+2016,"Mato Grosso","Masculino","Fevereiro",0
+2016,"Mato Grosso","Masculino","Março",0
+2016,"Mato Grosso","Masculino","Abril",1
+2016,"Mato Grosso","Masculino","Maio",0
+2016,"Mato Grosso","Masculino","Junho",0
+2016,"Mato Grosso","Masculino","Julho",0
+2016,"Mato Grosso","Masculino","Agosto",0
+2016,"Mato Grosso","Masculino","Setembro",1
+2016,"Mato Grosso","Masculino","Outubro",1
+2016,"Mato Grosso","Masculino","Novembro",1
+2016,"Mato Grosso","Masculino","Dezembro",0
+2016,"Goiás","Masculino","Janeiro",5
+2016,"Goiás","Masculino","Fevereiro",2
+2016,"Goiás","Masculino","Março",6
+2016,"Goiás","Masculino","Abril",4
+2016,"Goiás","Masculino","Maio",7
+2016,"Goiás","Masculino","Junho",2
+2016,"Goiás","Masculino","Julho",11
+2016,"Goiás","Masculino","Agosto",4
+2016,"Goiás","Masculino","Setembro",8
+2016,"Goiás","Masculino","Outubro",6
+2016,"Goiás","Masculino","Novembro",12
+2016,"Goiás","Masculino","Dezembro",8
+2016,"Distrito Federal","Masculino","Janeiro",5
+2016,"Distrito Federal","Masculino","Fevereiro",5
+2016,"Distrito Federal","Masculino","Março",7
+2016,"Distrito Federal","Masculino","Abril",6
+2016,"Distrito Federal","Masculino","Maio",4
+2016,"Distrito Federal","Masculino","Junho",7
+2016,"Distrito Federal","Masculino","Julho",4
+2016,"Distrito Federal","Masculino","Agosto",6
+2016,"Distrito Federal","Masculino","Setembro",7
+2016,"Distrito Federal","Masculino","Outubro",10
+2016,"Distrito Federal","Masculino","Novembro",7
+2016,"Distrito Federal","Masculino","Dezembro",4
